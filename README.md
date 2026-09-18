@@ -26,3 +26,12 @@ Static Application Security Testing (SAST) and manual security code auditing are
 | **4** | Weak Cryptographic Hash (`B324`) | High | A02: Cryptographic Failures | Upgraded deprecated `MD5` hashing algorithm to modern `SHA-256`. |
 
 ---
+
+👤 Author
+Name: MD. Rejone Hossen Riaz
+
+Role: Cyber Security Intern
+
+Organization: CodeAlpha
+
+Task: TASK 3 — Secure Coding Review
